@@ -1,5 +1,5 @@
 📦 **Projeto**
-- **Nome:** PYTHON_Com_IA-Automacao_de_Newtworking_no_LinkedIn
+- **Nome:** PYTHON-Automacao_de_Newtworking_no_LinkedIn
 - **Descrição:** Automação em Python que busca perfis no LinkedIn com base em filtros, aplica critérios de seleção, e tenta enviar convites de conexão com mensagem personalizada. O projeto utiliza Playwright (Chromium) para interação com a interface web e grava dumps/html + screenshots para diagnóstico.
 
 🚧 **Status**
